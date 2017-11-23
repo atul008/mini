@@ -1,6 +1,6 @@
 package com.leo.util.service;
 
-import com.leo.constant.Protocol;
+import com.leo.util.constant.Protocol;
 
 import java.net.URI;
 import java.util.concurrent.ExecutionException;

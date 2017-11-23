@@ -1,6 +1,6 @@
 package com.leo.util.service;
 
-import com.leo.constant.Protocol;
+import com.leo.util.constant.Protocol;
 import com.leo.util.file.dowloader.FileDownloader;
 import com.leo.util.file.dowloader.FtpFileDownloader;
 import com.leo.util.file.dowloader.HttpFileDownloader;
@@ -9,7 +9,7 @@ import com.leo.util.file.dowloader.SftpFileDownloader;
 import java.util.HashMap;
 import java.util.Map;
 
-import static com.leo.constant.Protocol.*;
+import static com.leo.util.constant.Protocol.*;
 
 public class FileDownloaderFactory {
 

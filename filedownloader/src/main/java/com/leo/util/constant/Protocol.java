@@ -1,4 +1,4 @@
-package com.leo.constant;
+package com.leo.util.constant;
 
 import org.apache.commons.lang3.StringUtils;
 
