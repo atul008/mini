@@ -1,4 +1,4 @@
-#### File downloader #####
+### File downloader ###
 Downloads files given by urls into a specified location on local disk.
 Supports various protocols : HTTP, HTTPS, FTP, FTPS and SFTP.
 
