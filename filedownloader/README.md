@@ -5,7 +5,7 @@ Supports various protocols : HTTP, HTTPS, FTP, FTPS and SFTP.
 
 # Building the project
 cd into folder filedownloader and run following command
-mvn clean install
+"mvn clean install"
 
 # Running the project
 java -cp [jar name] [Main class] [storage location on local disk] [multiple space separated urls of files to be downloaded]
