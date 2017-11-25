@@ -14,7 +14,7 @@ public class HttpFileDownloader implements FileDownloader {
             FileUtils.copyURLToFile(uri.toURL(), tempFile);
             File file = new File(fileName);
             tempFile.renameTo(file);
-            System.out.println("Download complete , URL : " + uri + " ,FileName : " + file.getAbsolutePath());
+            System.out.println("#### Download complete , URL : " + uri + " ,FileName : " + file.getAbsolutePath() + " ####");
             return file;
         }
         catch (Exception e) {
