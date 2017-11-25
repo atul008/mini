@@ -1,6 +1,7 @@
-### File downloader ###
-Downloads files given by urls into a specified location on local disk.
+# File downloader #
+Multi threaded application which downloads files given by urls into a specified location on local disk.
 Supports various protocols : HTTP, HTTPS, FTP, FTPS and SFTP.
+
 
 # Building the project
 cd into folder filedownloader and run following command
